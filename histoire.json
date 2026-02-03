@@ -1,0 +1,1146 @@
+{
+  "stories": [
+    {
+      "id": "src-stories-assets-font-story-vue",
+      "title": "Шрифтовые токены",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-assets-font-story-vue-0",
+          "title": "Демонстрация шрифтов"
+        }
+      ],
+      "relativePath": "src/stories/assets/Font.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Assets",
+        "Шрифтовые токены"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-assets-message-story-vue",
+      "title": "Message Уведомления",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-assets-message-story-vue-0",
+          "title": "Успешное сообщение"
+        },
+        {
+          "id": "src-stories-assets-message-story-vue-1",
+          "title": "Сообщение об ошибке"
+        },
+        {
+          "id": "src-stories-assets-message-story-vue-2",
+          "title": "Информационное сообщение"
+        },
+        {
+          "id": "src-stories-assets-message-story-vue-3",
+          "title": "Предупреждение"
+        }
+      ],
+      "relativePath": "src/stories/assets/Message.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Assets",
+        "Message Уведомления"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-assets-radio-checkbox-story-vue",
+      "title": "Radio и Checkbox",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-assets-radio-checkbox-story-vue-0",
+          "title": "Checkboxes"
+        },
+        {
+          "id": "src-stories-assets-radio-checkbox-story-vue-1",
+          "title": "Radio buttons"
+        }
+      ],
+      "relativePath": "src/stories/assets/Radio&Checkbox.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Assets",
+        "Radio и Checkbox"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-assets-token-story-vue",
+      "title": "Цветовые токены",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-assets-token-story-vue-0",
+          "title": "Токены"
+        }
+      ],
+      "relativePath": "src/stories/assets/Token.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Assets",
+        "Цветовые токены"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-accordion-story-vue",
+      "title": "Accordion Аккордеон",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-accordion-story-vue-0",
+          "title": "Базовый (закрыт)"
+        },
+        {
+          "id": "src-stories-ui-accordion-story-vue-1",
+          "title": "Базовый (открыт)"
+        },
+        {
+          "id": "src-stories-ui-accordion-story-vue-2",
+          "title": "Тип: simple"
+        },
+        {
+          "id": "src-stories-ui-accordion-story-vue-3",
+          "title": "Тип: group"
+        },
+        {
+          "id": "src-stories-ui-accordion-story-vue-4",
+          "title": "Иконка + group"
+        }
+      ],
+      "relativePath": "src/stories/ui/Accordion.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Accordion Аккордеон"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-additionfields-story-vue",
+      "title": "AdditionFields Доп поле при подтверждении",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-additionfields-story-vue-0",
+          "title": "Период - необязательное поле"
+        },
+        {
+          "id": "src-stories-ui-additionfields-story-vue-1",
+          "title": "Период - обязательное поле"
+        },
+        {
+          "id": "src-stories-ui-additionfields-story-vue-2",
+          "title": "Комбинация обязательного и необязательного поля"
+        }
+      ],
+      "relativePath": "src/stories/ui/AdditionFIelds.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "AdditionFields Доп поле при подтверждении"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-autocomplete-story-vue",
+      "title": "AutoComplete Автокомплит",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-1",
+          "title": "С классом noerror"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-2",
+          "title": "С классом light и предустановленными значениями"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-3",
+          "title": "Отключённый"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-4",
+          "title": "С ошибкой"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-5",
+          "title": "С иконкой"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-6",
+          "title": "Максимум одно значение (maxValuesCount=1)"
+        },
+        {
+          "id": "src-stories-ui-autocomplete-story-vue-7",
+          "title": "С иконкой и отсутствием возможностью очистки (clearable)"
+        }
+      ],
+      "relativePath": "src/stories/ui/AutoComplete.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "AutoComplete Автокомплит"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-box-story-vue",
+      "title": "Box Хранилище",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-box-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-box-story-vue-1",
+          "title": "С кнопкой очистки (clearable)"
+        },
+        {
+          "id": "src-stories-ui-box-story-vue-2",
+          "title": "Без возможности сворачивания (collapsable)"
+        },
+        {
+          "id": "src-stories-ui-box-story-vue-3",
+          "title": "Свернутое состояние (collapsed)"
+        },
+        {
+          "id": "src-stories-ui-box-story-vue-4",
+          "title": "Кнопка справа (right)"
+        },
+        {
+          "id": "src-stories-ui-box-story-vue-5",
+          "title": "Класс round-2 (скругление)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Box.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Box Хранилище"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-breadcrumbs-story-vue",
+      "title": "BreadCrumbs Хлебные крошки",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-breadcrumbs-story-vue-0",
+          "title": "По умолчанию"
+        }
+      ],
+      "relativePath": "src/stories/ui/BreadCrumbs.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "BreadCrumbs Хлебные крошки"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-button-story-vue",
+      "title": "Button Кнопка",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-button-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-1",
+          "title": "С иконкой и текстом (with-icon)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-2",
+          "title": "Только иконка (icon-mode)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-3",
+          "title": "Только иконка минималистичная маленькая (icon-mode + minimal + small)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-4",
+          "title": "Загрузка (loading)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-5",
+          "title": "Отключено (disabled)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-6",
+          "title": "Вторичная (secondary)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-7",
+          "title": "Вторичная легкая (secondary + light)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-8",
+          "title": "С границей (border)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-9",
+          "title": "Вторичная с границей (secondary + border)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-10",
+          "title": "Обратный порядок (reverse)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-11",
+          "title": "Легкая (light)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-12",
+          "title": "Маленькая (small)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-13",
+          "title": "Вторичная маленькая с границей (secondary + small + border)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-14",
+          "title": "Минималистичная (minimal)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-15",
+          "title": "Минималистичная маленькая (minimal + small)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-16",
+          "title": "Ссылка (link)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-17",
+          "title": "Минималистичная + загрузка + граница"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-18",
+          "title": "Выделенная"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-19",
+          "title": "Активная кнопка (active)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-20",
+          "title": "Вторичная активная (secondary + active)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-21",
+          "title": "Минималистичная активная (minimal + active)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-22",
+          "title": "Ссылка активная (link + active)"
+        },
+        {
+          "id": "src-stories-ui-button-story-vue-23",
+          "title": "Компактная активная (light + active)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Button.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Button Кнопка"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-datefield-story-vue",
+      "title": "DateField Выбор дат",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-datefield-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-1",
+          "title": "С кастомной иконкой"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-2",
+          "title": "С таймпикером (autoApply)"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-3",
+          "title": "Диапазон дат"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-4",
+          "title": "Кастомный триггер (кнопка)"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-5",
+          "title": "Выбор месяца"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-6",
+          "title": "Выбор года"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-7",
+          "title": "Шаг 30 минут"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-8",
+          "title": "Без выбора минут"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-9",
+          "title": "Стилизация (class)"
+        },
+        {
+          "id": "src-stories-ui-datefield-story-vue-10",
+          "title": "Очистка значения"
+        }
+      ],
+      "relativePath": "src/stories/ui/DateField.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "DateField Выбор дат"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-dropzone-story-vue",
+      "title": "DropZone Дропзона",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-dropzone-story-vue-0",
+          "title": "По умолчанию (1 файл)"
+        },
+        {
+          "id": "src-stories-ui-dropzone-story-vue-1",
+          "title": "Множественный выбор (до 3 файлов)"
+        },
+        {
+          "id": "src-stories-ui-dropzone-story-vue-2",
+          "title": "С отображением информации о файлах"
+        },
+        {
+          "id": "src-stories-ui-dropzone-story-vue-3",
+          "title": "Состояние drag-over (.over)"
+        }
+      ],
+      "relativePath": "src/stories/ui/DropZone.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "DropZone Дропзона"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-emptylabel-story-vue",
+      "title": "EmptyLabel Загружка на пустоту",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-emptylabel-story-vue-0",
+          "title": "По умолчанию с кнопкой, заголовком и описанием"
+        },
+        {
+          "id": "src-stories-ui-emptylabel-story-vue-1",
+          "title": "Без кнопки"
+        },
+        {
+          "id": "src-stories-ui-emptylabel-story-vue-2",
+          "title": "Вертикальный режим (по умолчанию)"
+        },
+        {
+          "id": "src-stories-ui-emptylabel-story-vue-3",
+          "title": "Слот кастомной кнопки"
+        }
+      ],
+      "relativePath": "src/stories/ui/EmptyLabel.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "EmptyLabel Загружка на пустоту"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-exceluploder-story-vue",
+      "title": "ExcelUploader Загрузка данных по шаблону",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-exceluploder-story-vue-0",
+          "title": "Простой пример с двумя колонками"
+        }
+      ],
+      "relativePath": "src/stories/ui/ExcelUploder.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "ExcelUploader Загрузка данных по шаблону"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-field-story-vue",
+      "title": "Field Поле ввода",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-field-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-1",
+          "title": "С иконкой"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-2",
+          "title": "С иконкой и подсказкой (info)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-3",
+          "title": "С ошибкой (isError)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-4",
+          "title": "Лёгкий стиль (light)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-5",
+          "title": "Лёгкий стиль с ошибкой"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-6",
+          "title": "Лёгкий стиль с ошибкой и значением"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-7",
+          "title": "Лёгкий стиль с ошибкой, значением и disabled"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-8",
+          "title": "Только подсказка (info)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-9",
+          "title": "Light + info"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-10",
+          "title": "Только placeholder"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-11",
+          "title": "Только placeholder (light)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-12",
+          "title": "Disabled"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-13",
+          "title": "Disabled с текстом"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-14",
+          "title": "Пароль (password)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-15",
+          "title": "Очищаемое поле (clearable)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-16",
+          "title": "Без placeholder"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-17",
+          "title": "Без активного placeholder (without-active-placeholder)"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-18",
+          "title": "Кастомная иконка подсказки (infoIcon) без ошибки и с отключённым активным плейсхолдером"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-19",
+          "title": "Маска ввода телефона"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-20",
+          "title": "Маска с числовыми ограничениями"
+        },
+        {
+          "id": "src-stories-ui-field-story-vue-21",
+          "title": "Маска буквенно-цифрового кода (ABC-123)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Field.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Field Поле ввода"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-icon-story-vue",
+      "title": "Icon Иконки",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-icon-story-vue-0",
+          "title": "Все иконки"
+        }
+      ],
+      "relativePath": "src/stories/ui/Icon.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Icon Иконки"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-kebabmenu-story-vue",
+      "title": "KebabMenu Кебаб меню",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-kebabmenu-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-kebabmenu-story-vue-1",
+          "title": "С кнопкой в стиле secondary"
+        },
+        {
+          "id": "src-stories-ui-kebabmenu-story-vue-2",
+          "title": "Минимальный стиль кнопки"
+        },
+        {
+          "id": "src-stories-ui-kebabmenu-story-vue-3",
+          "title": "Кнопка small + secondary"
+        },
+        {
+          "id": "src-stories-ui-kebabmenu-story-vue-4",
+          "title": "Кастомная кнопка через слот trigger"
+        }
+      ],
+      "relativePath": "src/stories/ui/KebabMenu.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "KebabMenu Кебаб меню"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-link-story-vue",
+      "title": "Link Компонент",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-link-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-link-story-vue-1",
+          "title": "Отключено (class='link', disabled)"
+        },
+        {
+          "id": "src-stories-ui-link-story-vue-2",
+          "title": "С иконкой (class='link')"
+        },
+        {
+          "id": "src-stories-ui-link-story-vue-3",
+          "title": "С иконкой справа (class='link reverse')"
+        },
+        {
+          "id": "src-stories-ui-link-story-vue-4",
+          "title": "Отключена + reverse + иконка"
+        },
+        {
+          "id": "src-stories-ui-link-story-vue-5",
+          "title": "Посещённая (visited)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Link.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Link Компонент"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-loader-story-vue",
+      "title": "Loader Лоадер",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-loader-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-loader-story-vue-1",
+          "title": "С заголовком"
+        },
+        {
+          "id": "src-stories-ui-loader-story-vue-2",
+          "title": "Light модификатор"
+        }
+      ],
+      "relativePath": "src/stories/ui/Loader.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Loader Лоадер"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-loadmore-story-vue",
+      "title": "LoadMore Подгрузка",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-loadmore-story-vue-0",
+          "title": "По умолчанию (есть ещё элементы)"
+        },
+        {
+          "id": "src-stories-ui-loadmore-story-vue-1",
+          "title": "Начальное состояние (все элементы скрыты)"
+        },
+        {
+          "id": "src-stories-ui-loadmore-story-vue-2",
+          "title": "Осталось меньше лимита"
+        },
+        {
+          "id": "src-stories-ui-loadmore-story-vue-3",
+          "title": "Все элементы загружены (кнопка не отображается)"
+        },
+        {
+          "id": "src-stories-ui-loadmore-story-vue-4",
+          "title": "Идёт загрузка (кнопка скрыта)"
+        }
+      ],
+      "relativePath": "src/stories/ui/LoadMore.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "LoadMore Подгрузка"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-menu-story-vue",
+      "title": "Menu Меню",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-menu-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-1",
+          "title": "С заданным активным элементом"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-2",
+          "title": "С иконками"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-3",
+          "title": "Со счетчиками"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-4",
+          "title": "С классом 'solid'"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-5",
+          "title": "С классом 'light-buttons'"
+        },
+        {
+          "id": "src-stories-ui-menu-story-vue-6",
+          "title": "С классом 'solid light-buttons'"
+        }
+      ],
+      "relativePath": "src/stories/ui/Menu.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Menu Меню"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-pagination-story-vue",
+      "title": "Pagination Пагинация",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-pagination-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-pagination-story-vue-1",
+          "title": "С выбором размера страницы"
+        },
+        {
+          "id": "src-stories-ui-pagination-story-vue-2",
+          "title": "Короткий режим (isShort)"
+        },
+        {
+          "id": "src-stories-ui-pagination-story-vue-3",
+          "title": "Центрировано (class='center')"
+        },
+        {
+          "id": "src-stories-ui-pagination-story-vue-4",
+          "title": "Много страниц (больше maxShowPage)"
+        },
+        {
+          "id": "src-stories-ui-pagination-story-vue-5",
+          "title": "С кастомными pageOptions"
+        }
+      ],
+      "relativePath": "src/stories/ui/Pagination.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Pagination Пагинация"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-range-story-vue",
+      "title": "Range Диапазон",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-range-story-vue-0",
+          "title": "По умолчанию (значение 50)"
+        },
+        {
+          "id": "src-stories-ui-range-story-vue-1",
+          "title": "Диапазон от 0 до 200"
+        },
+        {
+          "id": "src-stories-ui-range-story-vue-2",
+          "title": "Дробное значение (шаг 0.1)"
+        },
+        {
+          "id": "src-stories-ui-range-story-vue-3",
+          "title": "Произвольные границы (10–30)"
+        },
+        {
+          "id": "src-stories-ui-range-story-vue-4",
+          "title": "Отключено (disabled)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Range.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Range Диапазон"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-select-story-vue",
+      "title": "Select Селект",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-select-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-1",
+          "title": "С выбранным значением"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-2",
+          "title": "Отключённое состояние (disabled)"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-3",
+          "title": "С иконкой"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-4",
+          "title": "С ошибкой (isError)"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-5",
+          "title": "Лёгкий стиль + иконка (class='light with-icon noerror')"
+        },
+        {
+          "id": "src-stories-ui-select-story-vue-6",
+          "title": "Запрет на очистку выбора (clearable)"
+        }
+      ],
+      "relativePath": "src/stories/ui/Select.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Select Селект"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-table-story-vue",
+      "title": "Table Таблицы",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-table-story-vue-0",
+          "title": "Базовая таблица"
+        },
+        {
+          "id": "src-stories-ui-table-story-vue-1",
+          "title": "С выделением строки (selectable)"
+        },
+        {
+          "id": "src-stories-ui-table-story-vue-2",
+          "title": "С действиями (actions slot)"
+        },
+        {
+          "id": "src-stories-ui-table-story-vue-3",
+          "title": "С сортировкой"
+        }
+      ],
+      "relativePath": "src/stories/ui/Table.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Table Таблицы"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-timeline-story-vue",
+      "title": "Timeline Таймлайн просмотра состояния",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-timeline-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-timeline-story-vue-1",
+          "title": "Шаг по умолчанию: Месяц"
+        }
+      ],
+      "relativePath": "src/stories/ui/Timeline.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Timeline Таймлайн просмотра состояния"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-stories-ui-toggler-story-vue",
+      "title": "Toggler Тогглер",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-stories-ui-toggler-story-vue-0",
+          "title": "По умолчанию"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-1",
+          "title": "Состояние checked"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-2",
+          "title": "Отключённый (disabled)"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-3",
+          "title": "Inline стиль"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-4",
+          "title": "Inline + checked"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-5",
+          "title": "Inline + отключённый"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-6",
+          "title": "Отключённый + checked"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-7",
+          "title": "Класс square на контейнере"
+        },
+        {
+          "id": "src-stories-ui-toggler-story-vue-8",
+          "title": "Cursor default"
+        }
+      ],
+      "relativePath": "src/stories/ui/Toggler.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "UI",
+        "Toggler Тогглер"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    }
+  ],
+  "markdownFiles": []
+}

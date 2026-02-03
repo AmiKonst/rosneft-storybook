@@ -1,0 +1,97 @@
+:root {
+    --filter-map-base-layer: invert(.8) hue-rotate(110deg);
+    --color-scheme: dark;
+
+    /* Black */
+    --black: rgba(255, 255, 255, 1);
+    --black-900: rgba(242, 242, 242, 1);
+    --black-800: rgba(231, 232, 234, 1);
+    --black-700: rgba(222, 223, 226, 1);
+    --black-600: rgba(209, 209, 211, 1);
+    --black-500: rgba(209, 209, 211, 1);
+    --black-400: rgba(153, 155, 158, 1);
+    --black-300: rgba(123, 125, 130, 1);
+    --black-200: rgba(90, 92, 98, 1);
+    --black-100: rgba(73, 75, 81, 1);
+    --black-50: rgba(54, 57, 63, 1);
+
+    /* White */
+    --white: rgba(34, 37, 44, 1);
+    --white-80: rgba(34, 37, 44, .8);
+    --white-90: rgba(34, 37, 44, .9);
+
+    /* Danger */
+    --danger-700: rgba(236, 45, 48, 1);
+    --danger-600: rgba(216, 44, 48, 1);
+    --danger-500: rgba(192, 43, 47, 1);
+    --danger-400: rgba(165, 42, 47, 1);
+    --danger-300: rgba(139, 41, 46, 1);
+    --danger-200: rgba(113, 40, 46, 1);
+    --danger-100: rgba(87, 39, 45, 1);
+    --danger-50: rgba(60, 38, 45, 1);
+
+    /* Warning */
+    --warning-700: rgba(254, 155, 14, 1);
+    --warning-600: rgba(232, 143, 17, 1);
+    --warning-500: rgba(206, 129, 21, 1);
+    --warning-400: rgba(177, 114, 25, 1);
+    --warning-300: rgba(148, 98, 28, 1);
+    --warning-200: rgba(120, 83, 32, 1);
+    --warning-100: rgba(91, 68, 36, 1);
+    --warning-50: rgba(63, 52, 40, 1);
+
+    /* Success */
+    --success-700: rgba(12, 157, 97, 1);
+    --success-600: rgba(71, 184, 129, 1);
+    --success-500: rgba(17, 131, 85, 1);
+    --success-400: rgba(20, 115, 78, 1);
+    --success-300: rgba(23, 99, 72, 1);
+    --success-200: rgba(25, 84, 65, 1);
+    --success-100: rgba(28, 68, 58, 1);
+    --success-50: rgba(31, 53, 51, 1);
+
+    /* Info */
+    --info-700: rgba(58, 112, 226, 1); /* Темно-синий */
+    --info-600: rgba(56, 104, 208, 1); /* Умеренно темно-синий */
+    --info-500: rgba(53, 95, 186, 1); /* Яркий синий */
+    --info-400: rgba(50, 86, 162, 1); /* Умеренный синий */
+    --info-300: rgba(46, 76, 139, 1); /* Светло-синий */
+    --info-200: rgba(43, 66, 115, 1); /* Очень светлый синий */
+    --info-100: rgba(40, 57, 91, 1); /* Почти белый синий */
+    --info-50: rgba(37, 47, 68, 1); /* Очень-очень светлый синий */
+
+    /* Infographics */
+    --infographics-blue-gray: rgba(183, 194, 206, 1); /* Темно-серый с синим оттенком */
+    --infographics-brown: rgba(139, 87, 42, 1); /* Темно-коричневый */
+    --infographics-siena: rgba(131, 29, 35, 1); /* Темно-красный */
+    --infographics-indian-red: rgba(207, 89, 89, 1); /* Темно-красный */
+    --infographics-red-sand: rgba(244, 146, 74, 1); /* Темно-оранжевый */
+    --infographics-sandy: rgba(249, 207, 95, 1); /* Темный желтый */
+    --infographics-fuchsia: rgba(222, 65, 225, 1); /* Темно-фиолетовый */
+    --infographics-turquoise: rgba(70, 197, 237, 1); /* Темно-бирюзовый */
+    --infographics-cornflower: rgba(84, 133, 207, 1); /* Темно-синий с оттенком фиолетового */
+    --infographics-jade: rgba(53, 165, 104, 1); /* Темный зеленый */
+    --infographics-link: rgba(85, 26, 139, 1); /* Темный пурпурный */
+
+    /* Fonts */
+    --font-h1: normal normal 600 20px / 24px Inter;
+    --font-h2: normal normal 600 18px / 22px Inter;
+    --font-h3: normal normal 600 16px / 16px Inter;
+    --font-title: normal normal 600 14px / 16px Inter;
+    --font-subtitle: normal normal 600 12px / 1 Inter;
+    --font-body: normal normal 400 14px / 16px Inter;
+    --font-body-bold: normal normal 500 14px / 16px Inter;
+    --font-caption: normal normal 400 12px / 16px Inter;
+    --font-small: normal normal 400 12px / 11px Inter;
+    --font-micro: normal normal 400 10px / 12px Inter;
+
+    /* Colors */
+    --brand-700: rgba(249, 157, 28, 1);
+    --brand-600: rgba(252, 175, 23, 1);
+    --brand-500: rgba(229, 180, 20, 1);
+    --brand-400: rgba(239, 202, 58, 1);
+    --brand-300: rgba(219, 203, 48, 1);
+    --brand-200: rgba(247, 209, 57, 1);
+    --brand-100: rgba(128, 117, 59, 1);
+    --brand-50: rgba(128, 117, 59, 1);
+}

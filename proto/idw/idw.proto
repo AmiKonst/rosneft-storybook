@@ -1,0 +1,28 @@
+// protoc --cpp_out=. idw.proto
+syntax = "proto3";
+
+import "options.proto";
+
+package idw;
+
+message Point {
+  double x = 1;
+  double y = 2;
+  double alt = 3;
+}
+
+message Polygon {
+  repeated Point points = 1;
+}
+
+message InputString {
+  Options options = 1;
+
+  repeated Polygon masks = 2;
+  repeated Point latlngs = 3;
+}
+
+message OutputString {
+  repeated Polygon masks = 1;
+  repeated Point points = 2;
+}

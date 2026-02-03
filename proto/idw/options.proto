@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package idw;
+
+message Options {
+  double maxlatitude = 1;
+  double projectionr = 2;
+  double _a = 3;
+  double _b = 4;
+  double _c = 5;
+  double _d = 6;
+  double zoom = 7;
+  double paneposx = 8;
+  double paneposy = 9;
+  double pixeloriginx = 10;
+  double pixeloriginy = 11;
+  int32 ncelly = 12;
+  int32 ncellx = 13;
+  double r = 14;
+  double cellcen = 15;
+}
